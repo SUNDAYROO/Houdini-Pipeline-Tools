@@ -1,5 +1,5 @@
-# Houdini Pipeline Tools
-
+#  Houdini Pipeline Tools
+![alt text](https://github.com/SUNDAYROO/Houdini-Pipeline-Tools/blob/main/icons/logo_CFX_Pipeline_icon_64.png)
 ## Description
 The Houdini Pipeline Tools is a comprehensive system designed to enhance the efficiency of Houdini render farm simulations. The project facilitates seamless communication between servers and clients, enabling efficient job distribution and management. Its primary purpose is to streamline the rendering process in a multi-client, multi-server environment, ensuring optimal performance and resource utilization.
 
