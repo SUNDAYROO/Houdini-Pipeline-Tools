@@ -23,7 +23,7 @@ The Houdini Pipeline Tools is a comprehensive system designed to enhance the eff
 
 ## Usage
 1. **Video Guide**: For a visual walkthrough of the setup and usage, refer to our 
-   [Video Guide 1 - Tool](https://youtu.be/wmjQcO7WsDw) and [Video Guide 2 - Renderfarm](https://youtu.be/_CYaxjTqDk0).
+   [Video Guide 1 - Tool](https://youtu.be/wmjQcO7WsDw) [Video Guide 2 - Renderfarm](https://youtu.be/_CYaxjTqDk0).
 2. **Server Setup**:
    - Launch the `Renderfarm_for_server.exe` on the server machine. This will initiate the server-side application and prepare it to handle client requests.
 3. **Client Setup**:
